@@ -27,7 +27,7 @@ public class test : MonoBehaviour {
 		}
 		if (checkStart == 1) {
 			rb2.MovePosition ( new Vector3 (rb2.position.x, rb2.position.y, rb2.position.z)+
-							   new Vector3 (-1, 0, 0) *
+							   new Vector3 (moveSpeed, 0, 0) *
 							   Time.deltaTime);
 		}
 
