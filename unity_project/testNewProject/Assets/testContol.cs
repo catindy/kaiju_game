@@ -23,7 +23,12 @@ public class testContol : MonoBehaviour {
 		rb = GetComponent<Rigidbody> ();
 		
 	}
-	
+
+	public void getAttack(){
+		rb.AddForce (Vector3.left * 10);
+	}
+
+
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown (moveUp)) {
@@ -32,4 +37,6 @@ public class testContol : MonoBehaviour {
 		}
 		
 	}
+
+
 }

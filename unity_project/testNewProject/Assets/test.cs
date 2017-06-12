@@ -8,15 +8,19 @@ public class test : MonoBehaviour {
 	public float jumpForce ;
 	public KeyCode startKey;
 
-
 	private Rigidbody rb2;
 	private int checkStart = 0 ;
+
+
+
+
 
 
 
 	// Use this for initialization
 	void Start () {
 		rb2 = GetComponent<Rigidbody> ();
+
 
 	}
 
@@ -32,6 +36,13 @@ public class test : MonoBehaviour {
 		}
 
 	}
+
+
+
+
+
+
+
 
 
 
