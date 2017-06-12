@@ -46,10 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\destroyGameObj.cs" />
-     <Compile Include="Assets\gotDamage.cs" />
-     <Compile Include="Assets\test.cs" />
-     <Compile Include="Assets\testContol.cs" />
+     <Compile Include="Assets\script\destroyGameObj.cs" />
+     <Compile Include="Assets\script\gotDamage.cs" />
+     <Compile Include="Assets\script\test.cs" />
+     <Compile Include="Assets\script\testContol.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
