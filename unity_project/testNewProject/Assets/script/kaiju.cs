@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class kaiju : MonoBehaviour {
 
@@ -10,7 +11,8 @@ public class kaiju : MonoBehaviour {
 	}
 	void OnTriggerEnter(Collider other) {
 		if (other.gameObject.name == "character") {
-			Destroy (other.gameObject, 1f);
+			//Destroy (other.gameObject, 1f);
+			SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
 		}
 	}
 	// Update is called once per frame
