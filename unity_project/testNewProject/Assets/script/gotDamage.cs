@@ -31,7 +31,7 @@ public class gotDamage : MonoBehaviour {
 				Destroy(rb.gameObject,.5f);
 			}
 			else{
-				other.attachedRigidbody.AddForce (new Vector3 (-20, 50, 0));
+				other.attachedRigidbody.AddForce (new Vector3 (-5, 30, 0));
 			}
 
 

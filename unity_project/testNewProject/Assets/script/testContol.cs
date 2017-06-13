@@ -23,7 +23,7 @@ public class testContol : MonoBehaviour {
 	void Start () {
 		rb = GetComponent<Rigidbody> ();
 
-		//Time.timeScale = 1; // speed up
+		Time.timeScale = 1f ; // speed up
 
 
 	}

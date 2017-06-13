@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\script\destroyGameObj.cs" />
      <Compile Include="Assets\script\gotDamage.cs" />
+     <Compile Include="Assets\script\kaiju.cs" />
      <Compile Include="Assets\script\test.cs" />
      <Compile Include="Assets\script\testContol.cs" />
  <Reference Include="UnityEngine.Analytics">
