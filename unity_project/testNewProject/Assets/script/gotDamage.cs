@@ -6,7 +6,7 @@ public class gotDamage : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+
 	}
 
 	//void OnCollisionEnter( Collision collision){
@@ -14,16 +14,16 @@ public class gotDamage : MonoBehaviour {
 //		collision.collider.attachedRigidbody.AddForce(new Vector3 ( -50 , 50, 0));
 
 //	}
-	void OnTriggerEnter (Collider other) {
-
-		other.attachedRigidbody.AddForce(new Vector3 ( -50 , 50, 0));
-
+	void OnTriggerStay (Collider other) {
+		if (other.gameObject.name == "character") {
+			other.attachedRigidbody.AddForce (new Vector3 (-20, 50, 0));
+		}
 
 	}
 
 	// Update is called once per frame
 	void Update () {
-		
-		
+
+
 	}
 }

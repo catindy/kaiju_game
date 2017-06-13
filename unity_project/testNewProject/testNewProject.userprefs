@@ -1,11 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gotDamage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/gotDamage.cs">
     <Files>
-      <File FileName="Assets/test.cs" Line="43" Column="1" />
-      <File FileName="Assets/testContol.cs" Line="27" Column="9" />
-      <File FileName="Assets/destroyGameObj.cs" Line="12" Column="29" />
-      <File FileName="Assets/gotDamage.cs" Line="12" Column="4" />
+      <File FileName="Assets/script/gotDamage.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
