@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class testContol : MonoBehaviour {
 
 	//public float moveSpeed ;
 	public float jumpForce ;
 	public KeyCode moveUp;
+	public KeyCode Restart;
 	public float gravity_mutipal ;
 	public LayerMask whatIsLayerCanJump;
 
@@ -67,8 +69,12 @@ public class testContol : MonoBehaviour {
 			rb.velocity = new Vector3 (rb.velocity.x, jumpForce ,rb.velocity.z);
 			jumpStep--;
 		}
+		if (Input.GetKeyDown (Restart)) {
+			SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
+		}
 	
 	}
+
 
 
 }
