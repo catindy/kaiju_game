@@ -35,7 +35,7 @@ public class testContol : MonoBehaviour {
 	public void  OnCollisionStay(Collision collision )
 	{
 		
-		Debug.Log(collision.collider.gameObject.layer);
+
 		if (collision.collider.gameObject.layer == 8) {
 			jumpStep = 2;
 		}

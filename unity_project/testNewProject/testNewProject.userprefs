@@ -2,8 +2,28 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/gotDamage.cs">
     <Files>
-      <File FileName="Assets/script/gotDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/testContol.cs" Line="66" Column="2" />
+      <File FileName="Assets/script/gotDamage.cs" Line="32" Column="1" />
+      <File FileName="Assets/script/test.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testNewProject" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="gotDamage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="testNewProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
