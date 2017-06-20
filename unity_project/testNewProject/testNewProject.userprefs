@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test3/gen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gameplay2/middle_g2_sc_gp2.cs">
     <Files>
-      <File FileName="Assets/script/genBuliding.cs" Line="30" Column="4" />
+      <File FileName="Assets/gameplay2/middle_g2_sc_gp2.cs" Line="35" Column="6" />
+      <File FileName="Assets/script/genBuliding.cs" Line="1" Column="1" />
       <File FileName="Assets/script/gotDamage.cs" Line="1" Column="1" />
       <File FileName="Assets/script/testContol.cs" Line="1" Column="1" />
-      <File FileName="Assets/script/test.cs" Line="36" Column="27" />
+      <File FileName="Assets/script/test.cs" Line="1" Column="1" />
       <File FileName="Assets/script/destroyGameObj.cs" Line="1" Column="1" />
       <File FileName="Assets/script/kaiju.cs" Line="1" Column="1" />
-      <File FileName="Assets/test3/move.cs" Line="17" Column="36" />
+      <File FileName="Assets/test3/move.cs" Line="1" Column="1" />
       <File FileName="Assets/test3/gen.cs" Line="30" Column="73" />
     </Files>
   </MonoDevelop.Ide.Workbench>
