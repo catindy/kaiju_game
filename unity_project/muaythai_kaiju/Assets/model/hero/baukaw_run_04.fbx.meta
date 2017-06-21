@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 55186f4a2f3f8453e8f8ca2b5d666630
+timeCreated: 1498031206
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_l_grp
+    100002: ankle_r_grp
+    100004: arm_l_1
+    100006: arm_l_2
+    100008: arm_l_ctl_01
+    100010: arm_l_ctl_02
+    100012: arm_l_ctl_03
+    100014: arm_l_ctl_04
+    100016: arm_l_ctl_05
+    100018: arm_l_ctl_06
+    100020: arm_r_1
+    100022: arm_r_2
+    100024: arm_r_ctl_01
+    100026: arm_r_ctl_02
+    100028: arm_r_ctl_03
+    100030: arm_r_ctl_04
+    100032: arm_r_ctl_05
+    100034: arm_r_ctl_06
+    100036: back_1
+    100038: back_2
+    100040: back_ctl
+    100042: baukaw
+    100044: //RootNode
+    100046: chest_ctl
+    100048: face
+    100050: foot_l_ctl
+    100052: foot_r_ctl
+    100054: group1
+    100056: hair
+    100058: hand_l
+    100060: hand_r
+    100062: hand_r 1
+    100064: hand_r1
+    100066: head
+    100068: head_ctl
+    100070: hip
+    100072: hip_ctl
+    100074: ikHandle1
+    100076: ikHandle2
+    100078: ikHandle3
+    100080: ikHandle4
+    100082: ikHandle5
+    100084: ikHandle6
+    100086: knee_l
+    100088: knee_r
+    100090: leg_l_01
+    100092: leg_l_02
+    100094: leg_l_03
+    100096: leg_l_04
+    100098: leg_l_05
+    100100: leg_r1
+    100102: leg_r_01
+    100104: leg_r_02
+    100106: leg_r_03
+    100108: leg_r_04
+    100110: leg_r_05
+    100112: nurbsCircle1
+    100114: polySurface28
+    100116: polySurface29
+    100118: root
+    100120: sheet
+    100122: sheet_01
+    100124: sheet_02
+    100126: sheet_03
+    100128: sheet_04
+    100130: sheet_ctl_01
+    100132: sheet_ctl_02
+    100134: sheet_ctl_03
+    100136: short_02
+    100138: short_04
+    100140: shouder
+    400000: ankle_l_grp
+    400002: ankle_r_grp
+    400004: arm_l_1
+    400006: arm_l_2
+    400008: arm_l_ctl_01
+    400010: arm_l_ctl_02
+    400012: arm_l_ctl_03
+    400014: arm_l_ctl_04
+    400016: arm_l_ctl_05
+    400018: arm_l_ctl_06
+    400020: arm_r_1
+    400022: arm_r_2
+    400024: arm_r_ctl_01
+    400026: arm_r_ctl_02
+    400028: arm_r_ctl_03
+    400030: arm_r_ctl_04
+    400032: arm_r_ctl_05
+    400034: arm_r_ctl_06
+    400036: back_1
+    400038: back_2
+    400040: back_ctl
+    400042: baukaw
+    400044: //RootNode
+    400046: chest_ctl
+    400048: face
+    400050: foot_l_ctl
+    400052: foot_r_ctl
+    400054: group1
+    400056: hair
+    400058: hand_l
+    400060: hand_r
+    400062: hand_r 1
+    400064: hand_r1
+    400066: head
+    400068: head_ctl
+    400070: hip
+    400072: hip_ctl
+    400074: ikHandle1
+    400076: ikHandle2
+    400078: ikHandle3
+    400080: ikHandle4
+    400082: ikHandle5
+    400084: ikHandle6
+    400086: knee_l
+    400088: knee_r
+    400090: leg_l_01
+    400092: leg_l_02
+    400094: leg_l_03
+    400096: leg_l_04
+    400098: leg_l_05
+    400100: leg_r1
+    400102: leg_r_01
+    400104: leg_r_02
+    400106: leg_r_03
+    400108: leg_r_04
+    400110: leg_r_05
+    400112: nurbsCircle1
+    400114: polySurface28
+    400116: polySurface29
+    400118: root
+    400120: sheet
+    400122: sheet_01
+    400124: sheet_02
+    400126: sheet_03
+    400128: sheet_04
+    400130: sheet_ctl_01
+    400132: sheet_ctl_02
+    400134: sheet_ctl_03
+    400136: short_02
+    400138: short_04
+    400140: shouder
+    4300000: hand_r
+    4300002: hair
+    4300004: face
+    4300006: sheet
+    4300008: short_02
+    4300010: hand_r1
+    4300012: polySurface28
+    4300014: polySurface29
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: face
+    13700002: hair
+    13700004: hand_r
+    13700006: hand_r1
+    13700008: polySurface28
+    13700010: polySurface29
+    13700012: sheet
+    13700014: short_02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: baukaw
+        weight: 1
+      - path: baukaw/face
+        weight: 1
+      - path: baukaw/group1
+        weight: 1
+      - path: baukaw/hair
+        weight: 1
+      - path: baukaw/hand_r
+        weight: 1
+      - path: baukaw/hand_r1
+        weight: 1
+      - path: baukaw/leg_r1
+        weight: 1
+      - path: baukaw/polySurface28
+        weight: 1
+      - path: baukaw/polySurface29
+        weight: 1
+      - path: baukaw/sheet
+        weight: 1
+      - path: baukaw/short_02
+        weight: 1
+      - path: baukaw/short_04
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl/ankle_l_grp
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl/ankle_l_grp/ikHandle4
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl/ankle_l_grp/ikHandle5
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl/ankle_l_grp/ikHandle6
+        weight: 1
+      - path: nurbsCircle1/foot_l_ctl/knee_l
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl/ankle_r_grp
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl/ankle_r_grp/ikHandle1
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl/ankle_r_grp/ikHandle2
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl/ankle_r_grp/ikHandle3
+        weight: 1
+      - path: nurbsCircle1/foot_r_ctl/knee_r
+        weight: 1
+      - path: nurbsCircle1/hip_ctl
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06/arm_l_ctl_01
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06/arm_l_ctl_01/arm_l_ctl_05
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06/arm_l_ctl_01/arm_l_ctl_05/arm_l_ctl_02
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06/arm_l_ctl_01/arm_l_ctl_05/arm_l_ctl_02/arm_l_ctl_04
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_l_ctl_06/arm_l_ctl_01/arm_l_ctl_05/arm_l_ctl_02/arm_l_ctl_04/arm_l_ctl_03
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06/arm_r_ctl_01
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06/arm_r_ctl_01/arm_r_ctl_05
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06/arm_r_ctl_01/arm_r_ctl_05/arm_r_ctl_02
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06/arm_r_ctl_01/arm_r_ctl_05/arm_r_ctl_02/arm_r_ctl_04
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/arm_r_ctl_06/arm_r_ctl_01/arm_r_ctl_05/arm_r_ctl_02/arm_r_ctl_04/arm_r_ctl_03
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/head_ctl
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/sheet_ctl_01
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/sheet_ctl_01/sheet_ctl_02
+        weight: 1
+      - path: nurbsCircle1/hip_ctl/back_ctl/chest_ctl/sheet_ctl_01/sheet_ctl_02/sheet_ctl_03
+        weight: 1
+      - path: nurbsCircle1/root
+        weight: 1
+      - path: nurbsCircle1/root/hip
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_l_1
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_l_1/arm_l_2
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_l_1/arm_l_2/hand_l
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_r_1
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_r_1/arm_r_2
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/arm_r_1/arm_r_2/hand_r 1
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/head
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/sheet_01
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/sheet_01/sheet_02
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/sheet_01/sheet_02/sheet_03
+        weight: 1
+      - path: nurbsCircle1/root/hip/back_1/back_2/shouder/sheet_01/sheet_02/sheet_03/sheet_04
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_l_01
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_l_01/leg_l_02
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_l_01/leg_l_02/leg_l_03
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_l_01/leg_l_02/leg_l_03/leg_l_04
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_l_01/leg_l_02/leg_l_03/leg_l_04/leg_l_05
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_r_01
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_r_01/leg_r_02
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_r_01/leg_r_02/leg_r_03
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_r_01/leg_r_02/leg_r_03/leg_r_04
+        weight: 1
+      - path: nurbsCircle1/root/hip/leg_r_01/leg_r_02/leg_r_03/leg_r_04/leg_r_05
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
