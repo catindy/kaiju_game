@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/gameplay000/kaiju.cs">
+    <Files>
+      <File FileName="Assets/script/gameplay000/hero.cs" Line="37" Column="30" />
+      <File FileName="Assets/script/gameplay000/move_obj.cs" Line="14" Column="14" />
+      <File FileName="Assets/script/gameplay000/destroy_obj.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/gameplay000/reset_scene.cs" Line="4" Column="1" />
+      <File FileName="Assets/script/gameplay000/kaiju.cs" Line="28" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
