@@ -8,6 +8,7 @@ public class hero : MonoBehaviour {
 	//public float moveSpeed ;
 	public float jumpForce = 4 ;
 	public KeyCode moveUp = KeyCode.Space;
+	public KeyCode atack = KeyCode.W;
 	public KeyCode Restart = KeyCode.Backspace;
 	public float gravity_mutipal ;
 	public LayerMask whatIsLayerCanJump;
@@ -18,6 +19,10 @@ public class hero : MonoBehaviour {
 	private Rigidbody rb;
 
 
+	Animator anim;
+	int jumpHash = Animator.StringToHash("jump");
+	int runStateHash = Animator.StringToHash("run");
+	int kick_01StateHash = Animator.StringToHash("kick_01");
 
 
 	void Start () {
@@ -25,6 +30,7 @@ public class hero : MonoBehaviour {
 
 		Time.timeScale = 1f ; // speed up
 
+		anim = GetComponent<Animator>();
 
 	}
 
@@ -65,9 +71,17 @@ public class hero : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//gojump = Physics.
+
+
 		if (Input.GetKeyDown (moveUp) && isCharCanJump()==true ) {
+			anim.SetTrigger (jumpHash);
+
 			rb.velocity = new Vector3 (rb.velocity.x, jumpForce ,rb.velocity.z);
 			jumpStep--;
+		}
+		if (Input.GetKeyDown (atack)  ) {
+			anim.SetTrigger (kick_01StateHash);
+
 		}
 		if (Input.GetKeyDown (Restart)) {
 			SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
